@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SpeechTest/SpeechTest/bin/*
+/SpeechTest/SpeechTest/obj/*
+/SpeechTest/packages/
+/SpeechTest/.vs
+/.vs
